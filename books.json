@@ -1,0 +1,76 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt, David Thomas",
+      "genre": "Programming",
+      "year_published": 1999,
+      "price": 42.50,
+      "available": true
+    },
+    {
+      "id": 2,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Programming",
+      "year_published": 2008,
+      "price": 37.99,
+      "available": true
+    },
+    {
+      "id": 3,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-help",
+      "year_published": 2018,
+      "price": 21.00,
+      "available": false
+    },
+    {
+      "id": 4,
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "year_published": 2011,
+      "price": 18.75,
+      "available": true
+    },
+    {
+      "id": 5,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "year_published": 1960,
+      "price": 12.50,
+      "available": true
+    },
+    {
+      "id": 6,
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "genre": "Business",
+      "year_published": 2011,
+      "price": 24.00,
+      "available": false
+    },
+    {
+      "id": 7,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "year_published": 1949,
+      "price": 10.99,
+      "available": true
+    },
+    {
+      "id": 8,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Productivity",
+      "year_published": 2016,
+      "price": 19.99,
+      "available": true
+    }
+  ]
+}

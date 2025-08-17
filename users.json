@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@example.com",
+      "age": 24,
+      "membership": "gold",
+      "borrowed_books": [2, 5]
+    },
+    {
+      "id": 2,
+      "name": "Priya Mehta",
+      "email": "priya.mehta@example.com",
+      "age": 29,
+      "membership": "silver",
+      "borrowed_books": []
+    },
+    {
+      "id": 3,
+      "name": "Rahul Verma",
+      "email": "rahul.verma@example.com",
+      "age": 31,
+      "membership": "platinum",
+      "borrowed_books": [1, 4, 6]
+    },
+    {
+      "id": 4,
+      "name": "Sneha Iyer",
+      "email": "sneha.iyer@example.com",
+      "age": 22,
+      "membership": "bronze",
+      "borrowed_books": [7]
+    },
+    {
+      "id": 5,
+      "name": "Arjun Nair",
+      "email": "arjun.nair@example.com",
+      "age": 27,
+      "membership": "gold",
+      "borrowed_books": [3, 8]
+    },
+    {
+      "id": 6,
+      "name": "Kavya Patel",
+      "email": "kavya.patel@example.com",
+      "age": 26,
+      "membership": "silver",
+      "borrowed_books": []
+    }
+  ]
+}
