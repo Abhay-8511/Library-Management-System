@@ -6,7 +6,10 @@
       "email": "aarav.sharma@example.com",
       "age": 24,
       "membership": "gold",
-      "borrowed_books": [2, 5]
+      "issued_books": [2, 5],
+      "issuedDate": "2025-08-05",
+      "returnDate": "2025-08-20",
+      "subscriptionDate": "2024-03-15"
     },
     {
       "id": 2,
@@ -14,7 +17,10 @@
       "email": "priya.mehta@example.com",
       "age": 29,
       "membership": "silver",
-      "borrowed_books": []
+      "issued_books": [],
+      "issuedDate": null,
+      "returnDate": null,
+      "subscriptionDate": "2023-11-22"
     },
     {
       "id": 3,
@@ -22,7 +28,10 @@
       "email": "rahul.verma@example.com",
       "age": 31,
       "membership": "platinum",
-      "borrowed_books": [1, 4, 6]
+      "issued_books": [1, 4, 6],
+      "issuedDate": "2025-07-25",
+      "returnDate": "2025-08-15",
+      "subscriptionDate": "2024-07-10"
     },
     {
       "id": 4,
@@ -30,7 +39,10 @@
       "email": "sneha.iyer@example.com",
       "age": 22,
       "membership": "bronze",
-      "borrowed_books": [7]
+      "issued_books": [7],
+      "issuedDate": "2025-08-10",
+      "returnDate": "2025-08-25",
+      "subscriptionDate": "2025-01-05"
     },
     {
       "id": 5,
@@ -38,7 +50,10 @@
       "email": "arjun.nair@example.com",
       "age": 27,
       "membership": "gold",
-      "borrowed_books": [3, 8]
+      "issued_books": [3, 8],
+      "issuedDate": "2025-08-01",
+      "returnDate": "2025-08-18",
+      "subscriptionDate": "2023-09-18"
     },
     {
       "id": 6,
@@ -46,7 +61,10 @@
       "email": "kavya.patel@example.com",
       "age": 26,
       "membership": "silver",
-      "borrowed_books": []
+      "issued_books": [],
+      "issuedDate": null,
+      "returnDate": null,
+      "subscriptionDate": "2024-12-02"
     }
   ]
 }
