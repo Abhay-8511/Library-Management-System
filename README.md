@@ -39,9 +39,9 @@ GET:Get all the issued books
 GET: Get all issued books with their fine amount
 
 ## Subscription Types
-    >> Basic (3 months)
-    >> Standard (6 months)
-    >> Premium (12 months)
+    >> Silver (3 months)
+    >> Gold (6 months)
+    >> Platinum (12 months)
 
 > > If a user missed the renewal date, then user should be collected with $100
 > > If a user misses the subscription, then user is expected to pay $100
@@ -52,6 +52,6 @@ npm init
 npm i express
 npm i nodemon --save-dev 
 
-npm run dev
+npm run dev - to start the application
 
 To restore Node Modules files and package-lock-.json ----> npm i/npm install
